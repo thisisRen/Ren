@@ -1,2 +1,2 @@
 # Ren
-Monster Adventure
+Adventure of Monster
